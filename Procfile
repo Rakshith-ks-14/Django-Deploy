@@ -1,0 +1,1 @@
+web : gunicorn industry_pro.wsgi --log-file -
